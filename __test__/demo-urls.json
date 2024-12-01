@@ -1,0 +1,16 @@
+[
+    { "Old_URL": "/about", "New_URL": "https://example.com/about-us/" },
+    { "Old_URL": "/about", "New_URL": "https://example.com/about/" },
+    { "Old_URL": "/contact", "New_URL": "https://example.com/contact-us/" },
+    { "Old_URL": "/contact", "New_URL": "https://example.com/get-in-touch/" },
+    { "Old_URL": "/services", "New_URL": "https://example.com/our-services/" },
+    { "Old_URL": "/services", "New_URL": "https://example.com/services/" },
+    { "Old_URL": "/file.pdf", "New_URL": "https://example.com/file/document.pdf" },
+    { "Old_URL": "/file.pdf", "New_URL": "https://example.com/file/sample.pdf" },
+    { "Old_URL": "/products", "New_URL": "https://example.com/shop/" },
+    { "Old_URL": "/products", "New_URL": "https://example.com/store/" },
+    { "Old_URL": "/category/sub-category", "New_URL": "https://example.com/category/sub/" },
+    { "Old_URL": "/category/sub-category", "New_URL": "https://example.com/category/alternative/" },
+    { "Old_URL": "/blog", "New_URL": "https://example.com/news/" },
+    { "Old_URL": "/blog", "New_URL": "https://example.com/blog-posts/" }
+]
