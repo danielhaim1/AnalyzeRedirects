@@ -47,11 +47,11 @@ npx analyze-redirects --file <path_to_your_json_file> [options]
 ```
 
 ### Options:
-`-f`, `--file <path>`: Path to JSON file with Old_URL and New_URL.
-`-o`, `--output <path>`: Path to output the generated redirects file (default: `./dist/redirects.txt`).
-`-a`, `--analyze-only`: Only analyze redirects without generating output file.
-`-s`, `--silent`: Suppress console output.
-`-h`, `--help`: Display this help message.
+- `-f`, `--file <path>`: Path to JSON file with Old_URL and New_URL.
+- `-o`, `--output <path>`: Path to output the generated redirects file (default: `./dist/redirects.txt`).
+- `-a`, `--analyze-only`: Only analyze redirects without generating output file.
+- `-s`, `--silent`: Suppress console output.
+- `-h`, `--help`: Display this help message.
 
 ### Examples:
 
