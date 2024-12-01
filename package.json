@@ -1,6 +1,6 @@
 {
   "name": "@danielhaim/analyzeredirects",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool to analyze and resolve conflicting URL redirects.",
   "keywords": [
     "redirects",
