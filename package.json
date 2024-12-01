@@ -37,9 +37,9 @@
     "test": "jest --verbose --config jest.config.mjs",
     "lint": "eslint .",
     "prepublishOnly": "npm test",
-    "release": "npm version patch && npm run build && git add -A && git commit -m 'Release: v$(node -p \"require('./package.json').version\")' && git push && npm publish",
-    "release-major": "npm version major && npm run build && git add -A && git commit -m 'Major Release: v$(node -p \"require('./package.json').version\")' && git push && npm publish",
-    "release-minor": "npm version minor && npm run build && git add -A && git commit -m 'Minor Release: v$(node -p \"require('./package.json').version\")' && git push && npm publish"
+    "release": "npm version patch && git add -A && git commit -m 'Release: v$(node -p \"require('./package.json').version\")' && git push && npm publish",
+    "release-major": "npm version major && git add -A && git commit -m 'Major Release: v$(node -p \"require('./package.json').version\")' && git push && npm publish",
+    "release-minor": "npm version minor && git add -A && git commit -m 'Minor Release: v$(node -p \"require('./package.json').version\")' && git push && npm publish"
   },
   "type": "module",
   "publishConfig": {
