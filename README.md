@@ -1,9 +1,9 @@
 Analyze Redirects
 ==========
 
-[![npm version](https://img.shields.io/npm/v/@danielhaim/analyzeredirect)](https://www.npmjs.com/package/@danielhaim/analyzeredirect)
-[![Downloads](https://img.shields.io/npm/dt/@danielhaim/analyzeredirect.svg)](https://www.npmjs.com/package/@danielhaim/analyzeredirect)
-![GitHub](https://img.shields.io/github/license/danielhaim1/analyzeredirect)
+[![npm version](https://img.shields.io/npm/v/@danielhaim/analyzeredirects)](https://www.npmjs.com/package/@danielhaim/analyzeredirects)
+[![Downloads](https://img.shields.io/npm/dt/@danielhaim/analyzeredirects.svg)](https://www.npmjs.com/package/@danielhaim/analyzeredirects)
+![GitHub](https://img.shields.io/github/license/danielhaim1/analyzeredirects)
 
 ![Demo Image](./demo.png)
 
